@@ -7,7 +7,6 @@
 Клонируйте репозиторий и перейдите в рабочую директорию
 
 git clone https://github.com/NadinKon/WAV_to_MP3 <br>
-
 cd WAV_to_MP3
 
 ### Соберите образы Docker Compose и запустите контейнеры:
